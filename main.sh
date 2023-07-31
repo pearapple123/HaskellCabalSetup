@@ -1,2 +1,1 @@
 clear
-cabal run
